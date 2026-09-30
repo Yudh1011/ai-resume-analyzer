@@ -1,0 +1,52 @@
+ARJUN NAIR
+Trainee Software Engineer
+Kochi, Kerala | arjun.nair@example.com | +91 98470 00000
+github.com/arjunnair | linkedin.com/in/arjunnair
+
+PROFESSIONAL SUMMARY
+Final-year Computer Science student with hands-on experience building backend
+applications in Python. Comfortable writing SQL queries, designing REST APIs and
+working with Git in a team setting. Looking for a Trainee Software Engineer role
+where I can grow into a full-stack developer.
+
+EDUCATION
+B.Tech, Computer Science and Engineering
+APJ Abdul Kalam Technological University, Kerala | 2021 - 2025 | CGPA 8.4 / 10
+Higher Secondary Examination, Computer Science | 2021 | 92%
+
+TECHNICAL SKILLS
+Languages: Python, Java, SQL
+Web: HTML, CSS, Flask, REST APIs
+Databases: MySQL, SQLite
+Tools: Git, GitHub, VS Code, Postman
+Concepts: Object Oriented Programming, Data Structures, Algorithms, DBMS
+
+PROJECTS
+Campus Placement Portal | Python, Flask, MySQL
+- Built a Flask web application with 12 REST API endpoints for student and
+  recruiter registration, login and job posting.
+- Designed a normalized MySQL schema with 6 tables and indexed the job_id column,
+  which reduced the placement search query time from 2.1s to 0.3s.
+- Implemented role-based access control using sessions and decorators.
+
+Library Management System | Java, MySQL
+- Developed a console application in Java using OOP concepts such as inheritance,
+  encapsulation and polymorphism across 14 classes.
+- Wrote JDBC code to persist books and issue records to a MySQL database.
+- Handled exceptions and input validation to prevent corrupted records.
+
+Weather Dashboard | Python, REST API
+- Consumed a public weather REST API and rendered results in an HTML dashboard.
+- Cached responses in SQLite to cut repeat API calls by about 70%.
+
+CERTIFICATIONS
+- Python for Everybody (Coursera)
+- SQL Basics (HackerRank)
+
+ACHIEVEMENTS
+- Solved 300+ problems on LeetCode and HackerRank in Python and Java.
+- Technical lead of the college coding club; organised 2 hackathons for 150 students.
+
+STRENGTHS
+Strong problem solving, clear written and verbal communication, quick learner,
+comfortable working in a team and participating in peer code reviews.

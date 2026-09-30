@@ -1,0 +1,34 @@
+Trainee Software Engineer
+
+We are looking for a Trainee Software Engineer with knowledge of Python and Java.
+
+Requirements:
+
+- Strong programming fundamentals
+- Python
+- Java
+- Object Oriented Programming
+- SQL
+- MySQL
+- Data Structures and Algorithms
+- Git
+- REST APIs
+- Problem solving
+- Good communication skills
+
+Responsibilities:
+
+- Develop software applications
+- Write clean and maintainable code
+- Work with databases
+- Develop REST APIs
+- Debug applications
+- Participate in code reviews
+- Work with the development team
+
+Good to have:
+
+- Spring Boot
+- FastAPI
+- Docker
+- AWS

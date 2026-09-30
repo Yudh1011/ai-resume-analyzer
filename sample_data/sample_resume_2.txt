@@ -1,0 +1,26 @@
+PRIYA SHARMA
+Aspiring Software Developer
+Pune, Maharashtra | priya.sharma@example.com | +91 99880 11223
+github.com/priyasharma
+
+OBJECTIVE
+Recent graduate looking for an entry level developer role to apply my academic
+knowledge and grow as an engineer.
+
+EDUCATION
+B.E. Computer Engineering
+Savitribai Phule Pune University | 2020 - 2024 | 68%
+
+SKILLS
+- Python (basics)
+- HTML and CSS
+- MS Office
+- Communication
+
+ACADEMIC PROJECT
+Student Result Management System
+- Built a small Python program to store and display student marks in text files.
+- Created simple forms using HTML and CSS.
+
+HOBBIES
+Reading, travelling and listening to music.
